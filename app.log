@@ -1,0 +1,730 @@
+2025-04-05 06:54:39,459 - root - INFO - Starbucks Procurement API starting up
+2025-04-05 06:54:40,190 - root - INFO - Starbucks Procurement API starting up
+2025-04-05 06:54:40,300 - root - INFO - Starting Starbucks Procurement Multi-Agent System
+2025-04-05 06:54:42,285 - root - INFO - System initialized with 10 suppliers
+2025-04-05 06:54:42,286 - root - INFO - System initialized with 0 contracts
+2025-04-05 06:54:42,286 - root - INFO - System initialized with 0 orders
+2025-04-05 06:54:42,287 - root - INFO - Starting procurement workflow
+2025-04-05 06:54:42,289 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:54:52,298 - root - INFO - Starting procurement workflow
+2025-04-05 06:54:52,299 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:55:02,314 - root - INFO - Starting procurement workflow
+2025-04-05 06:55:02,315 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:55:12,322 - root - INFO - Starting procurement workflow
+2025-04-05 06:55:12,323 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:55:22,341 - root - INFO - Starting procurement workflow
+2025-04-05 06:55:22,343 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:55:32,359 - root - INFO - Starting procurement workflow
+2025-04-05 06:55:32,360 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:55:42,370 - root - INFO - Starting procurement workflow
+2025-04-05 06:55:42,373 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:55:52,373 - root - INFO - Starting procurement workflow
+2025-04-05 06:55:52,374 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:56:02,376 - root - INFO - Starting procurement workflow
+2025-04-05 06:56:02,379 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:56:12,392 - root - INFO - Starting procurement workflow
+2025-04-05 06:56:12,393 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:56:22,399 - root - INFO - Starting procurement workflow
+2025-04-05 06:56:22,401 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:56:32,409 - root - INFO - Starting procurement workflow
+2025-04-05 06:56:32,419 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:56:42,416 - root - INFO - Starting procurement workflow
+2025-04-05 06:56:42,423 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:56:52,415 - root - INFO - Starting procurement workflow
+2025-04-05 06:56:52,419 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:57:02,419 - root - INFO - Starting procurement workflow
+2025-04-05 06:57:02,424 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:57:12,428 - root - INFO - Starting procurement workflow
+2025-04-05 06:57:12,436 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:57:22,443 - root - INFO - Starting procurement workflow
+2025-04-05 06:57:22,445 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:57:32,430 - root - INFO - Starting procurement workflow
+2025-04-05 06:57:32,437 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:57:42,454 - root - INFO - Starting procurement workflow
+2025-04-05 06:57:42,462 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:57:52,459 - root - INFO - Starting procurement workflow
+2025-04-05 06:57:52,468 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:58:02,475 - root - INFO - Starting procurement workflow
+2025-04-05 06:58:02,478 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:58:12,486 - root - INFO - Starting procurement workflow
+2025-04-05 06:58:12,488 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:58:22,501 - root - INFO - Starting procurement workflow
+2025-04-05 06:58:22,506 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:58:32,506 - root - INFO - Starting procurement workflow
+2025-04-05 06:58:32,521 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:58:42,553 - root - INFO - Starting procurement workflow
+2025-04-05 06:58:42,559 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:58:52,573 - root - INFO - Starting procurement workflow
+2025-04-05 06:58:52,581 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:59:02,588 - root - INFO - Starting procurement workflow
+2025-04-05 06:59:02,615 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:59:12,603 - root - INFO - Starting procurement workflow
+2025-04-05 06:59:12,610 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:59:22,607 - root - INFO - Starting procurement workflow
+2025-04-05 06:59:22,609 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:59:32,617 - root - INFO - Starting procurement workflow
+2025-04-05 06:59:32,620 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:59:42,600 - root - INFO - Starting procurement workflow
+2025-04-05 06:59:42,750 - root - INFO - Procurement workflow completed successfully
+2025-04-05 06:59:52,617 - root - INFO - Starting procurement workflow
+2025-04-05 06:59:52,620 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:00:02,630 - root - INFO - Starting procurement workflow
+2025-04-05 07:00:02,633 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:00:12,712 - root - INFO - Starting procurement workflow
+2025-04-05 07:00:12,720 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:00:22,714 - root - INFO - Starting procurement workflow
+2025-04-05 07:00:22,716 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:00:32,708 - root - INFO - Starting procurement workflow
+2025-04-05 07:00:32,887 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:00:42,722 - root - INFO - Starting procurement workflow
+2025-04-05 07:00:42,724 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:00:52,724 - root - INFO - Starting procurement workflow
+2025-04-05 07:00:52,774 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:01:02,748 - root - INFO - Starting procurement workflow
+2025-04-05 07:01:02,751 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:01:12,754 - root - INFO - Starting procurement workflow
+2025-04-05 07:01:12,757 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:01:22,753 - root - INFO - Starting procurement workflow
+2025-04-05 07:01:22,770 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:01:32,763 - root - INFO - Starting procurement workflow
+2025-04-05 07:01:32,769 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:01:42,780 - root - INFO - Starting procurement workflow
+2025-04-05 07:01:42,854 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:01:52,785 - root - INFO - Starting procurement workflow
+2025-04-05 07:01:52,791 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:02:02,806 - root - INFO - Starting procurement workflow
+2025-04-05 07:02:02,851 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:02:12,825 - root - INFO - Starting procurement workflow
+2025-04-05 07:02:12,828 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:02:22,895 - root - INFO - Starting procurement workflow
+2025-04-05 07:02:22,901 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:02:32,923 - root - INFO - Starting procurement workflow
+2025-04-05 07:02:32,982 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:02:42,916 - root - INFO - Starting procurement workflow
+2025-04-05 07:02:42,920 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:02:52,915 - root - INFO - Starting procurement workflow
+2025-04-05 07:02:52,963 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:03:02,926 - root - INFO - Starting procurement workflow
+2025-04-05 07:03:02,949 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:03:12,956 - root - INFO - Starting procurement workflow
+2025-04-05 07:03:13,175 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:03:22,965 - root - INFO - Starting procurement workflow
+2025-04-05 07:03:22,998 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:03:32,967 - root - INFO - Starting procurement workflow
+2025-04-05 07:03:32,987 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:03:42,981 - root - INFO - Starting procurement workflow
+2025-04-05 07:03:42,984 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:03:52,989 - root - INFO - Starting procurement workflow
+2025-04-05 07:03:52,996 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:04:03,033 - root - INFO - Starting procurement workflow
+2025-04-05 07:04:03,042 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:04:13,040 - root - INFO - Starting procurement workflow
+2025-04-05 07:04:13,047 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:04:23,048 - root - INFO - Starting procurement workflow
+2025-04-05 07:04:23,052 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:04:33,054 - root - INFO - Starting procurement workflow
+2025-04-05 07:04:33,074 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:04:43,078 - root - INFO - Starting procurement workflow
+2025-04-05 07:04:43,081 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:04:53,084 - root - INFO - Starting procurement workflow
+2025-04-05 07:04:53,321 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:05:03,107 - root - INFO - Starting procurement workflow
+2025-04-05 07:05:03,111 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:05:13,121 - root - INFO - Starting procurement workflow
+2025-04-05 07:05:13,124 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:05:23,141 - root - INFO - Starting procurement workflow
+2025-04-05 07:05:23,147 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:05:33,152 - root - INFO - Starting procurement workflow
+2025-04-05 07:05:33,228 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:05:43,165 - root - INFO - Starting procurement workflow
+2025-04-05 07:05:43,170 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:05:53,146 - root - INFO - Starting procurement workflow
+2025-04-05 07:05:53,152 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:06:03,171 - root - INFO - Starting procurement workflow
+2025-04-05 07:06:03,179 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:06:13,149 - root - INFO - Starting procurement workflow
+2025-04-05 07:06:13,153 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:06:23,153 - root - INFO - Starting procurement workflow
+2025-04-05 07:06:23,156 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:06:33,172 - root - INFO - Starting procurement workflow
+2025-04-05 07:06:33,221 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:06:43,171 - root - INFO - Starting procurement workflow
+2025-04-05 07:06:43,198 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:06:53,156 - root - INFO - Starting procurement workflow
+2025-04-05 07:06:53,159 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:07:03,167 - root - INFO - Starting procurement workflow
+2025-04-05 07:07:03,195 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:07:13,179 - root - INFO - Starting procurement workflow
+2025-04-05 07:07:13,190 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:07:23,202 - root - INFO - Starting procurement workflow
+2025-04-05 07:07:23,205 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:07:33,216 - root - INFO - Starting procurement workflow
+2025-04-05 07:07:33,220 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:07:43,218 - root - INFO - Starting procurement workflow
+2025-04-05 07:07:43,221 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:07:53,210 - root - INFO - Starting procurement workflow
+2025-04-05 07:07:53,214 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:08:03,232 - root - INFO - Starting procurement workflow
+2025-04-05 07:08:03,236 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:08:13,250 - root - INFO - Starting procurement workflow
+2025-04-05 07:08:13,255 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:08:23,246 - root - INFO - Starting procurement workflow
+2025-04-05 07:08:23,250 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:08:33,282 - root - INFO - Starting procurement workflow
+2025-04-05 07:08:33,288 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:08:43,269 - root - INFO - Starting procurement workflow
+2025-04-05 07:08:43,272 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:08:53,297 - root - INFO - Starting procurement workflow
+2025-04-05 07:08:53,310 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:09:03,287 - root - INFO - Starting procurement workflow
+2025-04-05 07:09:03,293 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:09:13,300 - root - INFO - Starting procurement workflow
+2025-04-05 07:09:13,306 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:09:23,469 - root - INFO - Starting procurement workflow
+2025-04-05 07:09:23,476 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:09:33,518 - root - INFO - Starting procurement workflow
+2025-04-05 07:09:33,524 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:09:43,531 - root - INFO - Starting procurement workflow
+2025-04-05 07:09:43,544 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:09:53,554 - root - INFO - Starting procurement workflow
+2025-04-05 07:09:53,562 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:10:03,571 - root - INFO - Starting procurement workflow
+2025-04-05 07:10:03,589 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:10:13,620 - root - INFO - Starting procurement workflow
+2025-04-05 07:10:13,630 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:10:23,671 - root - INFO - Starting procurement workflow
+2025-04-05 07:10:23,679 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:10:33,695 - root - INFO - Starting procurement workflow
+2025-04-05 07:10:33,699 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:10:43,724 - root - INFO - Starting procurement workflow
+2025-04-05 07:10:43,732 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:10:53,757 - root - INFO - Starting procurement workflow
+2025-04-05 07:10:53,765 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:11:03,776 - root - INFO - Starting procurement workflow
+2025-04-05 07:11:03,783 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:11:13,780 - root - INFO - Starting procurement workflow
+2025-04-05 07:11:13,787 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:11:23,796 - root - INFO - Starting procurement workflow
+2025-04-05 07:11:23,809 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:11:33,855 - root - INFO - Starting procurement workflow
+2025-04-05 07:11:33,863 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:11:43,876 - root - INFO - Starting procurement workflow
+2025-04-05 07:11:43,886 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:11:53,877 - root - INFO - Starting procurement workflow
+2025-04-05 07:11:53,921 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:12:03,916 - root - INFO - Starting procurement workflow
+2025-04-05 07:12:03,938 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:12:13,915 - root - INFO - Starting procurement workflow
+2025-04-05 07:12:14,028 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:12:23,976 - root - INFO - Starting procurement workflow
+2025-04-05 07:12:23,986 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:12:33,990 - root - INFO - Starting procurement workflow
+2025-04-05 07:12:33,998 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:12:43,981 - root - INFO - Starting procurement workflow
+2025-04-05 07:12:43,987 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:12:54,044 - root - INFO - Starting procurement workflow
+2025-04-05 07:12:54,049 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:13:04,198 - root - INFO - Starting procurement workflow
+2025-04-05 07:13:04,204 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:13:14,244 - root - INFO - Starting procurement workflow
+2025-04-05 07:13:14,250 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:13:24,260 - root - INFO - Starting procurement workflow
+2025-04-05 07:13:24,266 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:13:34,338 - root - INFO - Starting procurement workflow
+2025-04-05 07:13:34,349 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:13:44,593 - root - INFO - Starting procurement workflow
+2025-04-05 07:13:44,601 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:13:54,603 - root - INFO - Starting procurement workflow
+2025-04-05 07:13:54,607 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:14:04,599 - root - INFO - Starting procurement workflow
+2025-04-05 07:14:04,608 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:14:14,626 - root - INFO - Starting procurement workflow
+2025-04-05 07:14:14,863 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:14:24,756 - root - INFO - Starting procurement workflow
+2025-04-05 07:14:24,769 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:14:34,781 - root - INFO - Starting procurement workflow
+2025-04-05 07:14:35,301 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:14:44,793 - root - INFO - Starting procurement workflow
+2025-04-05 07:14:44,808 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:14:54,851 - root - INFO - Starting procurement workflow
+2025-04-05 07:14:54,857 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:15:04,858 - root - INFO - Starting procurement workflow
+2025-04-05 07:15:04,897 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:15:14,921 - root - INFO - Starting procurement workflow
+2025-04-05 07:15:14,937 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:15:24,925 - root - INFO - Starting procurement workflow
+2025-04-05 07:15:24,974 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:15:35,094 - root - INFO - Starting procurement workflow
+2025-04-05 07:15:35,115 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:15:45,101 - root - INFO - Starting procurement workflow
+2025-04-05 07:15:45,107 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:15:55,119 - root - INFO - Starting procurement workflow
+2025-04-05 07:15:55,191 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:16:05,133 - root - INFO - Starting procurement workflow
+2025-04-05 07:16:05,344 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:16:15,149 - root - INFO - Starting procurement workflow
+2025-04-05 07:16:15,161 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:16:25,145 - root - INFO - Starting procurement workflow
+2025-04-05 07:16:25,154 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:16:35,167 - root - INFO - Starting procurement workflow
+2025-04-05 07:16:35,177 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:16:45,169 - root - INFO - Starting procurement workflow
+2025-04-05 07:16:45,302 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:16:55,177 - root - INFO - Starting procurement workflow
+2025-04-05 07:16:55,185 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:17:05,203 - root - INFO - Starting procurement workflow
+2025-04-05 07:17:05,210 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:17:15,213 - root - INFO - Starting procurement workflow
+2025-04-05 07:17:15,243 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:17:25,229 - root - INFO - Starting procurement workflow
+2025-04-05 07:17:25,238 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:17:35,239 - root - INFO - Starting procurement workflow
+2025-04-05 07:17:35,250 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:17:45,262 - root - INFO - Starting procurement workflow
+2025-04-05 07:17:45,270 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:17:55,337 - root - INFO - Starting procurement workflow
+2025-04-05 07:17:55,344 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:18:05,351 - root - INFO - Starting procurement workflow
+2025-04-05 07:18:05,360 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:18:15,379 - root - INFO - Starting procurement workflow
+2025-04-05 07:18:15,389 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:18:25,388 - root - INFO - Starting procurement workflow
+2025-04-05 07:18:25,397 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:18:35,388 - root - INFO - Starting procurement workflow
+2025-04-05 07:18:35,675 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:18:45,425 - root - INFO - Starting procurement workflow
+2025-04-05 07:18:45,433 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:18:55,425 - root - INFO - Starting procurement workflow
+2025-04-05 07:18:55,430 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:19:05,421 - root - INFO - Starting procurement workflow
+2025-04-05 07:19:05,427 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:19:15,421 - root - INFO - Starting procurement workflow
+2025-04-05 07:19:15,427 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:19:25,404 - root - INFO - Starting procurement workflow
+2025-04-05 07:19:25,512 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:19:35,605 - root - INFO - Starting procurement workflow
+2025-04-05 07:19:35,614 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:19:45,632 - root - INFO - Starting procurement workflow
+2025-04-05 07:19:45,639 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:19:55,646 - root - INFO - Starting procurement workflow
+2025-04-05 07:19:55,696 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:20:05,663 - root - INFO - Starting procurement workflow
+2025-04-05 07:20:05,668 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:20:15,678 - root - INFO - Starting procurement workflow
+2025-04-05 07:20:15,684 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:20:25,681 - root - INFO - Starting procurement workflow
+2025-04-05 07:20:25,688 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:20:35,696 - root - INFO - Starting procurement workflow
+2025-04-05 07:20:35,704 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:20:45,719 - root - INFO - Starting procurement workflow
+2025-04-05 07:20:45,725 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:20:55,715 - root - INFO - Starting procurement workflow
+2025-04-05 07:20:55,777 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:21:05,732 - root - INFO - Starting procurement workflow
+2025-04-05 07:21:05,738 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:21:15,739 - root - INFO - Starting procurement workflow
+2025-04-05 07:21:15,744 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:21:25,728 - root - INFO - Starting procurement workflow
+2025-04-05 07:21:25,792 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:21:35,747 - root - INFO - Starting procurement workflow
+2025-04-05 07:21:35,752 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:21:45,727 - root - INFO - Starting procurement workflow
+2025-04-05 07:21:45,971 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:21:55,755 - root - INFO - Starting procurement workflow
+2025-04-05 07:21:55,768 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:22:05,779 - root - INFO - Starting procurement workflow
+2025-04-05 07:22:05,793 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:22:15,782 - root - INFO - Starting procurement workflow
+2025-04-05 07:22:15,790 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:22:25,789 - root - INFO - Starting procurement workflow
+2025-04-05 07:22:25,804 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:22:35,794 - root - INFO - Starting procurement workflow
+2025-04-05 07:22:35,802 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:22:45,802 - root - INFO - Starting procurement workflow
+2025-04-05 07:22:45,864 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:22:55,815 - root - INFO - Starting procurement workflow
+2025-04-05 07:22:55,833 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:23:05,827 - root - INFO - Starting procurement workflow
+2025-04-05 07:23:05,833 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:23:15,853 - root - INFO - Starting procurement workflow
+2025-04-05 07:23:15,858 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:23:25,862 - root - INFO - Starting procurement workflow
+2025-04-05 07:23:25,873 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:23:35,864 - root - INFO - Starting procurement workflow
+2025-04-05 07:23:35,877 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:23:45,865 - root - INFO - Starting procurement workflow
+2025-04-05 07:23:45,874 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:23:55,879 - root - INFO - Starting procurement workflow
+2025-04-05 07:23:55,892 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:24:05,908 - root - INFO - Starting procurement workflow
+2025-04-05 07:24:05,915 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:24:15,908 - root - INFO - Starting procurement workflow
+2025-04-05 07:24:15,918 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:24:25,935 - root - INFO - Starting procurement workflow
+2025-04-05 07:24:25,954 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:24:35,995 - root - INFO - Starting procurement workflow
+2025-04-05 07:24:36,002 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:24:46,030 - root - INFO - Starting procurement workflow
+2025-04-05 07:24:46,038 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:24:56,037 - root - INFO - Starting procurement workflow
+2025-04-05 07:24:56,066 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:25:06,072 - root - INFO - Starting procurement workflow
+2025-04-05 07:25:06,084 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:25:16,088 - root - INFO - Starting procurement workflow
+2025-04-05 07:25:16,168 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:25:26,110 - root - INFO - Starting procurement workflow
+2025-04-05 07:25:26,126 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:25:36,129 - root - INFO - Starting procurement workflow
+2025-04-05 07:25:36,135 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:25:46,200 - root - INFO - Starting procurement workflow
+2025-04-05 07:25:46,208 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:25:56,195 - root - INFO - Starting procurement workflow
+2025-04-05 07:25:56,316 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:26:06,212 - root - INFO - Starting procurement workflow
+2025-04-05 07:26:06,225 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:26:16,233 - root - INFO - Starting procurement workflow
+2025-04-05 07:26:16,244 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:26:26,246 - root - INFO - Starting procurement workflow
+2025-04-05 07:26:26,257 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:26:36,326 - root - INFO - Starting procurement workflow
+2025-04-05 07:26:36,333 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:26:46,341 - root - INFO - Starting procurement workflow
+2025-04-05 07:26:46,358 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:26:56,347 - root - INFO - Starting procurement workflow
+2025-04-05 07:26:56,357 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:27:06,365 - root - INFO - Starting procurement workflow
+2025-04-05 07:27:06,380 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:27:16,375 - root - INFO - Starting procurement workflow
+2025-04-05 07:27:16,382 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:27:26,351 - root - INFO - Starting procurement workflow
+2025-04-05 07:27:26,410 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:27:36,368 - root - INFO - Starting procurement workflow
+2025-04-05 07:27:36,377 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:27:46,390 - root - INFO - Starting procurement workflow
+2025-04-05 07:27:46,397 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:27:56,403 - root - INFO - Starting procurement workflow
+2025-04-05 07:27:56,432 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:28:06,399 - root - INFO - Starting procurement workflow
+2025-04-05 07:28:06,431 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:28:16,414 - root - INFO - Starting procurement workflow
+2025-04-05 07:28:16,425 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:28:26,428 - root - INFO - Starting procurement workflow
+2025-04-05 07:28:26,436 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:28:36,432 - root - INFO - Starting procurement workflow
+2025-04-05 07:28:36,450 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:28:46,784 - root - INFO - Starting procurement workflow
+2025-04-05 07:28:46,794 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:28:56,780 - root - INFO - Starting procurement workflow
+2025-04-05 07:28:56,787 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:29:06,801 - root - INFO - Starting procurement workflow
+2025-04-05 07:29:06,813 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:29:16,823 - root - INFO - Starting procurement workflow
+2025-04-05 07:29:16,831 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:29:26,834 - root - INFO - Starting procurement workflow
+2025-04-05 07:29:26,851 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:29:36,861 - root - INFO - Starting procurement workflow
+2025-04-05 07:29:36,881 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:29:46,877 - root - INFO - Starting procurement workflow
+2025-04-05 07:29:46,929 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:29:56,865 - root - INFO - Starting procurement workflow
+2025-04-05 07:29:56,883 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:30:06,920 - root - INFO - Starting procurement workflow
+2025-04-05 07:30:06,935 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:30:16,920 - root - INFO - Starting procurement workflow
+2025-04-05 07:30:16,939 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:30:26,907 - root - INFO - Starting procurement workflow
+2025-04-05 07:30:26,912 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:30:36,999 - root - INFO - Starting procurement workflow
+2025-04-05 07:30:37,010 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:30:46,978 - root - INFO - Starting procurement workflow
+2025-04-05 07:30:47,052 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:30:56,998 - root - INFO - Starting procurement workflow
+2025-04-05 07:30:57,132 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:31:06,987 - root - INFO - Starting procurement workflow
+2025-04-05 07:31:06,997 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:31:16,997 - root - INFO - Starting procurement workflow
+2025-04-05 07:31:17,008 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:31:27,005 - root - INFO - Starting procurement workflow
+2025-04-05 07:31:27,013 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:31:37,138 - root - INFO - Starting procurement workflow
+2025-04-05 07:31:37,148 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:31:47,158 - root - INFO - Starting procurement workflow
+2025-04-05 07:31:47,166 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:31:57,163 - root - INFO - Starting procurement workflow
+2025-04-05 07:31:57,229 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:32:07,185 - root - INFO - Starting procurement workflow
+2025-04-05 07:32:07,196 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:32:17,195 - root - INFO - Starting procurement workflow
+2025-04-05 07:32:17,208 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:32:27,213 - root - INFO - Starting procurement workflow
+2025-04-05 07:32:27,284 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:32:37,219 - root - INFO - Starting procurement workflow
+2025-04-05 07:32:37,231 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:32:47,280 - root - INFO - Starting procurement workflow
+2025-04-05 07:32:47,288 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:32:57,282 - root - INFO - Starting procurement workflow
+2025-04-05 07:32:57,289 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:33:07,298 - root - INFO - Starting procurement workflow
+2025-04-05 07:33:07,330 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:33:17,304 - root - INFO - Starting procurement workflow
+2025-04-05 07:33:17,313 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:33:27,308 - root - INFO - Starting procurement workflow
+2025-04-05 07:33:27,316 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:33:37,328 - root - INFO - Starting procurement workflow
+2025-04-05 07:33:37,335 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:33:47,328 - root - INFO - Starting procurement workflow
+2025-04-05 07:33:47,342 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:33:57,340 - root - INFO - Starting procurement workflow
+2025-04-05 07:33:57,466 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:34:07,351 - root - INFO - Starting procurement workflow
+2025-04-05 07:34:07,357 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:34:17,357 - root - INFO - Starting procurement workflow
+2025-04-05 07:34:17,364 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:34:27,363 - root - INFO - Starting procurement workflow
+2025-04-05 07:34:27,370 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:34:37,380 - root - INFO - Starting procurement workflow
+2025-04-05 07:34:37,389 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:34:47,423 - root - INFO - Starting procurement workflow
+2025-04-05 07:34:47,435 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:34:57,426 - root - INFO - Starting procurement workflow
+2025-04-05 07:34:57,442 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:35:07,439 - root - INFO - Starting procurement workflow
+2025-04-05 07:35:07,450 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:35:17,444 - root - INFO - Starting procurement workflow
+2025-04-05 07:35:17,451 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:35:27,436 - root - INFO - Starting procurement workflow
+2025-04-05 07:35:27,444 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:35:37,442 - root - INFO - Starting procurement workflow
+2025-04-05 07:35:37,463 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:35:47,471 - root - INFO - Starting procurement workflow
+2025-04-05 07:35:47,594 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:35:57,477 - root - INFO - Starting procurement workflow
+2025-04-05 07:35:57,488 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:36:07,477 - root - INFO - Starting procurement workflow
+2025-04-05 07:36:07,484 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:36:17,556 - root - INFO - Starting procurement workflow
+2025-04-05 07:36:17,562 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:36:27,570 - root - INFO - Starting procurement workflow
+2025-04-05 07:36:27,591 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:36:37,608 - root - INFO - Starting procurement workflow
+2025-04-05 07:36:37,617 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:36:47,823 - root - INFO - Starting procurement workflow
+2025-04-05 07:36:47,834 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:36:57,824 - root - INFO - Starting procurement workflow
+2025-04-05 07:36:57,831 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:37:07,811 - root - INFO - Starting procurement workflow
+2025-04-05 07:37:07,822 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:37:17,862 - root - INFO - Starting procurement workflow
+2025-04-05 07:37:17,873 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:37:27,873 - root - INFO - Starting procurement workflow
+2025-04-05 07:37:27,881 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:37:37,879 - root - INFO - Starting procurement workflow
+2025-04-05 07:37:37,890 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:37:47,912 - root - INFO - Starting procurement workflow
+2025-04-05 07:37:47,922 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:37:57,929 - root - INFO - Starting procurement workflow
+2025-04-05 07:37:57,954 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:38:07,938 - root - INFO - Starting procurement workflow
+2025-04-05 07:38:07,946 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:38:17,935 - root - INFO - Starting procurement workflow
+2025-04-05 07:38:17,963 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:38:27,940 - root - INFO - Starting procurement workflow
+2025-04-05 07:38:27,993 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:38:37,951 - root - INFO - Starting procurement workflow
+2025-04-05 07:38:37,958 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:38:47,955 - root - INFO - Starting procurement workflow
+2025-04-05 07:38:47,966 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:38:57,968 - root - INFO - Starting procurement workflow
+2025-04-05 07:38:57,997 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:39:07,968 - root - INFO - Starting procurement workflow
+2025-04-05 07:39:07,992 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:39:17,978 - root - INFO - Starting procurement workflow
+2025-04-05 07:39:17,987 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:39:27,999 - root - INFO - Starting procurement workflow
+2025-04-05 07:39:28,063 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:39:37,999 - root - INFO - Starting procurement workflow
+2025-04-05 07:39:38,006 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:39:48,042 - root - INFO - Starting procurement workflow
+2025-04-05 07:39:48,058 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:39:58,027 - root - INFO - Starting procurement workflow
+2025-04-05 07:39:58,047 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:40:08,034 - root - INFO - Starting procurement workflow
+2025-04-05 07:40:08,127 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:40:18,064 - root - INFO - Starting procurement workflow
+2025-04-05 07:40:18,112 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:40:28,064 - root - INFO - Starting procurement workflow
+2025-04-05 07:40:28,075 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:40:38,061 - root - INFO - Starting procurement workflow
+2025-04-05 07:40:38,081 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:40:48,073 - root - INFO - Starting procurement workflow
+2025-04-05 07:40:48,086 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:40:58,092 - root - INFO - Starting procurement workflow
+2025-04-05 07:40:58,117 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:41:08,098 - root - INFO - Starting procurement workflow
+2025-04-05 07:41:08,111 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:41:18,116 - root - INFO - Starting procurement workflow
+2025-04-05 07:41:18,151 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:41:28,136 - root - INFO - Starting procurement workflow
+2025-04-05 07:41:28,150 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:41:38,144 - root - INFO - Starting procurement workflow
+2025-04-05 07:41:38,164 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:41:48,168 - root - INFO - Starting procurement workflow
+2025-04-05 07:41:48,177 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:41:58,189 - root - INFO - Starting procurement workflow
+2025-04-05 07:41:58,203 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:42:08,192 - root - INFO - Starting procurement workflow
+2025-04-05 07:42:08,203 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:42:18,220 - root - INFO - Starting procurement workflow
+2025-04-05 07:42:18,227 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:42:28,231 - root - INFO - Starting procurement workflow
+2025-04-05 07:42:28,243 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:42:38,250 - root - INFO - Starting procurement workflow
+2025-04-05 07:42:38,259 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:42:48,286 - root - INFO - Starting procurement workflow
+2025-04-05 07:42:48,295 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:42:58,310 - root - INFO - Starting procurement workflow
+2025-04-05 07:42:58,321 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:43:08,306 - root - INFO - Starting procurement workflow
+2025-04-05 07:43:08,317 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:43:18,303 - root - INFO - Starting procurement workflow
+2025-04-05 07:43:18,314 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:43:28,304 - root - INFO - Starting procurement workflow
+2025-04-05 07:43:28,315 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:43:38,324 - root - INFO - Starting procurement workflow
+2025-04-05 07:43:38,396 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:43:48,333 - root - INFO - Starting procurement workflow
+2025-04-05 07:43:48,345 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:43:58,340 - root - INFO - Starting procurement workflow
+2025-04-05 07:43:58,375 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:44:08,349 - root - INFO - Starting procurement workflow
+2025-04-05 07:44:08,361 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:44:18,373 - root - INFO - Starting procurement workflow
+2025-04-05 07:44:18,437 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:44:28,381 - root - INFO - Starting procurement workflow
+2025-04-05 07:44:28,617 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:44:38,386 - root - INFO - Starting procurement workflow
+2025-04-05 07:44:38,399 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:44:48,406 - root - INFO - Starting procurement workflow
+2025-04-05 07:44:48,438 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:44:58,410 - root - INFO - Starting procurement workflow
+2025-04-05 07:44:58,422 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:45:08,413 - root - INFO - Starting procurement workflow
+2025-04-05 07:45:08,472 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:45:18,411 - root - INFO - Starting procurement workflow
+2025-04-05 07:45:18,428 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:45:28,414 - root - INFO - Starting procurement workflow
+2025-04-05 07:45:28,451 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:45:38,422 - root - INFO - Starting procurement workflow
+2025-04-05 07:45:38,442 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:45:48,424 - root - INFO - Starting procurement workflow
+2025-04-05 07:45:48,433 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:45:58,430 - root - INFO - Starting procurement workflow
+2025-04-05 07:45:58,473 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:46:08,440 - root - INFO - Starting procurement workflow
+2025-04-05 07:46:08,448 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:46:18,442 - root - INFO - Starting procurement workflow
+2025-04-05 07:46:18,451 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:46:28,469 - root - INFO - Starting procurement workflow
+2025-04-05 07:46:28,481 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:46:38,564 - root - INFO - Starting procurement workflow
+2025-04-05 07:46:38,580 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:46:48,571 - root - INFO - Starting procurement workflow
+2025-04-05 07:46:48,600 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:46:58,591 - root - INFO - Starting procurement workflow
+2025-04-05 07:46:58,606 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:47:08,603 - root - INFO - Starting procurement workflow
+2025-04-05 07:47:08,619 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:47:18,627 - root - INFO - Starting procurement workflow
+2025-04-05 07:47:18,647 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:47:28,633 - root - INFO - Starting procurement workflow
+2025-04-05 07:47:28,651 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:47:38,655 - root - INFO - Starting procurement workflow
+2025-04-05 07:47:38,671 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:47:48,664 - root - INFO - Starting procurement workflow
+2025-04-05 07:47:48,673 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:47:58,678 - root - INFO - Starting procurement workflow
+2025-04-05 07:47:58,691 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:48:08,716 - root - INFO - Starting procurement workflow
+2025-04-05 07:48:08,735 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:48:18,722 - root - INFO - Starting procurement workflow
+2025-04-05 07:48:18,729 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:48:28,752 - root - INFO - Starting procurement workflow
+2025-04-05 07:48:28,762 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:48:38,803 - root - INFO - Starting procurement workflow
+2025-04-05 07:48:38,817 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:48:48,818 - root - INFO - Starting procurement workflow
+2025-04-05 07:48:48,828 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:48:58,825 - root - INFO - Starting procurement workflow
+2025-04-05 07:48:58,887 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:49:08,839 - root - INFO - Starting procurement workflow
+2025-04-05 07:49:08,897 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:49:18,841 - root - INFO - Starting procurement workflow
+2025-04-05 07:49:18,863 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:49:28,851 - root - INFO - Starting procurement workflow
+2025-04-05 07:49:28,864 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:49:38,864 - root - INFO - Starting procurement workflow
+2025-04-05 07:49:38,875 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:49:48,886 - root - INFO - Starting procurement workflow
+2025-04-05 07:49:48,907 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:49:58,886 - root - INFO - Starting procurement workflow
+2025-04-05 07:49:58,896 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:50:08,906 - root - INFO - Starting procurement workflow
+2025-04-05 07:50:09,132 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:50:18,924 - root - INFO - Starting procurement workflow
+2025-04-05 07:50:18,934 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:50:28,908 - root - INFO - Starting procurement workflow
+2025-04-05 07:50:28,918 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:50:38,920 - root - INFO - Starting procurement workflow
+2025-04-05 07:50:38,935 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:50:48,928 - root - INFO - Starting procurement workflow
+2025-04-05 07:50:48,937 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:50:58,946 - root - INFO - Starting procurement workflow
+2025-04-05 07:50:58,958 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:51:08,969 - root - INFO - Starting procurement workflow
+2025-04-05 07:51:08,982 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:51:18,984 - root - INFO - Starting procurement workflow
+2025-04-05 07:51:18,993 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:51:29,003 - root - INFO - Starting procurement workflow
+2025-04-05 07:51:29,030 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:51:39,023 - root - INFO - Starting procurement workflow
+2025-04-05 07:51:39,131 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:51:49,046 - root - INFO - Starting procurement workflow
+2025-04-05 07:51:49,056 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:51:59,050 - root - INFO - Starting procurement workflow
+2025-04-05 07:51:59,059 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:52:09,067 - root - INFO - Starting procurement workflow
+2025-04-05 07:52:09,084 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:52:19,087 - root - INFO - Starting procurement workflow
+2025-04-05 07:52:19,101 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:52:29,101 - root - INFO - Starting procurement workflow
+2025-04-05 07:52:29,114 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:52:39,100 - root - INFO - Starting procurement workflow
+2025-04-05 07:52:39,113 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:52:49,097 - root - INFO - Starting procurement workflow
+2025-04-05 07:52:49,248 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:52:59,114 - root - INFO - Starting procurement workflow
+2025-04-05 07:52:59,124 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:53:09,135 - root - INFO - Starting procurement workflow
+2025-04-05 07:53:09,146 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:53:19,156 - root - INFO - Starting procurement workflow
+2025-04-05 07:53:19,259 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:53:29,171 - root - INFO - Starting procurement workflow
+2025-04-05 07:53:29,186 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:53:39,177 - root - INFO - Starting procurement workflow
+2025-04-05 07:53:39,192 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:53:49,188 - root - INFO - Starting procurement workflow
+2025-04-05 07:53:49,198 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:53:59,181 - root - INFO - Starting procurement workflow
+2025-04-05 07:53:59,195 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:54:09,189 - root - INFO - Starting procurement workflow
+2025-04-05 07:54:09,279 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:54:19,181 - root - INFO - Starting procurement workflow
+2025-04-05 07:54:19,197 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:54:29,202 - root - INFO - Starting procurement workflow
+2025-04-05 07:54:29,218 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:54:39,216 - root - INFO - Starting procurement workflow
+2025-04-05 07:54:39,228 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:54:49,223 - root - INFO - Starting procurement workflow
+2025-04-05 07:54:49,234 - root - INFO - Procurement workflow completed successfully
+2025-04-05 07:54:59,242 - root - INFO - Starting procurement workflow
+2025-04-05 07:54:59,257 - root - INFO - Procurement workflow completed successfully
