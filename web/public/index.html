@@ -1,0 +1,68 @@
+<!-- web/public/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Starbucks Procurement Agents</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="header">
+        <img src="starbuckslogo.png" alt="Starbucks Logo" class="logo">
+        <h1>Procurement Multi-Agent System</h1>
+        <div class="header-right">
+            <a href="/visualizations.html" class="nav-button">Visualizations</a>
+            <span id="connection-status" class="connection-status disconnected">Disconnected</span>
+        </div>
+    </div>
+
+    <div class="agent-container">
+        <div class="agent-card" id="sourcing-agent">
+            <div class="agent-header sourcing">
+                <span class="agent-icon">🔍</span>
+                <h2>Sourcing Agent</h2>
+                <span id="sourcing-status" class="status pending">Pending</span>
+            </div>
+            <p><b>Role:</b> Identifies and evaluates coffee bean suppliers worldwide based on quality, sustainability, price, and reliability.</p>
+        </div>
+        <div class="agent-card" id="negotiation-agent">
+            <div class="agent-header negotiation">
+                <span class="agent-icon">📄</span>
+                <h2>Negotiation Agent</h2>
+                <span id="negotiation-status" class="status pending">Pending</span>
+            </div>
+            <p><b>Role:</b>Handles contract negotiations with suppliers to secure the best terms for quality, price, and delivery.</p>
+        </div>
+        <div class="agent-card" id="order-agent">
+            <div class="agent-header order">
+                <span class="agent-icon">🛒</span>
+                <h2>Order Agent</h2>
+                <span id="order-status" class="status pending">Pending</span>
+            </div>
+            <p><b>Role:</b>Manages purchase orders and tracks deliveries to ensure timely receipt of coffee beans.</p>
+        </div>
+    </div>
+
+    <div class="run-button-container">
+        <button id="runButton" class="run-button idle" title="Run Agents">▶</button>
+    </div>
+
+    <div class="logs-container">
+        <div class="logs-header">
+            <h2>Communication Logs</h2>
+            <select id="agent-filter">
+                <option value="ALL">ALL</option>
+                <option value="Sourcing Agent">Sourcing Agent</option>
+                <option value="Negotiation Agent">Negotiation Agent</option>
+                <option value="Order Agent">Order Agent</option>
+                <option value="Final Outcome">Final Outcome</option>
+            </select>
+        </div>
+        <pre id="logs-output">No communication logs yet. Run the agents to see their outputs.</pre>
+    </div>
+
+    <script src="/static/visualizationData.js"></script>
+    <script src="/static/script.js"></script>
+</body>
+</html>

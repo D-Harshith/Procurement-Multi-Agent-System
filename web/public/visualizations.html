@@ -1,0 +1,39 @@
+<!-- web/public/visualizations.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Starbucks Procurement Visualizations</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="header">
+        <img src="starbuckslogo.png" alt="Starbucks Logo" class="logo">
+        <h1>Starbucks Procurement Visualizations</h1>
+        <div class="header-right">
+            <a href="/index.html" class="nav-button">Back to Agents</a>
+            <span id="connection-status" class="connection-status disconnected">Disconnected</span>
+        </div>
+    </div>
+
+    <div class="visualizations-container">
+        <div class="visualization-box">
+            <h2>Market Price (USD/lb)</h2>
+            <canvas id="marketPriceChart"></canvas>
+        </div>
+        <div class="visualization-box">
+            <h2>Suppliers Map</h2>
+            <canvas id="suppliersChart"></canvas>
+        </div>
+        <div class="visualization-box">
+            <h2>Demand Forecast (lbs)</h2>
+            <canvas id="demandForecastChart"></canvas>
+        </div>
+    </div>
+
+    <script src="/static/visualizationData.js"></script>
+    <script src="/static/visualizations.js"></script>
+</body>
+</html>
