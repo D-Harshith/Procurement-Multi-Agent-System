@@ -57,9 +57,9 @@ The Starbucks Procurement Multi-Agent System is an AI-powered solution that leve
 
 ### Running the Application
 
-1. Start the web server:
+1. Start the web server: change the directory to web 
    ```
-   python app.py
+   npm start
    ```
 2. Open your browser and navigate to `http://localhost:8000`.
 
