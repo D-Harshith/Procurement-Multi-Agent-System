@@ -1,12 +1,12 @@
-# Starbucks Procurement Multi-Agent System
+# Coffee supply Procurement Multi-Agent System
 
-A multi-agent system for supply chain procurement management using CrewAI, designed to automate and optimize the Starbucks bean procurement process.
+A multi-agent system for supply chain procurement management using CrewAI, designed to automate and optimize the Coffee supply bean procurement process.
 
 ## Overview
 
-The Starbucks Procurement Multi-Agent System is an AI-powered solution that leverages multiple specialized autonomous agents to handle the entire procurement lifecycle—from sourcing suppliers to negotiating contracts and managing orders. The system simulates a Starbucks bean procurement process with three specialized agents:
+The Coffee supply Procurement Multi-Agent System is an AI-powered solution that leverages multiple specialized autonomous agents to handle the entire procurement lifecycle—from sourcing suppliers to negotiating contracts and managing orders. The system simulates a Coffee supply bean procurement process with three specialized agents:
 
-* **Starbucks Bean Sourcing Agent**: Identifies and evaluates potential Starbucks bean suppliers worldwide.
+* **Coffee supply Bean Sourcing Agent**: Identifies and evaluates potential Coffee supply bean suppliers worldwide.
 * **Contract Negotiation Agent**: Handles supplier negotiations and contract management.
 * **Order Management Agent**: Manages the purchasing process and order tracking.
 
@@ -77,7 +77,7 @@ The system is built on a modular architecture with the following components:
 ```
 +----------------------------------------------+
 |                                              |
-|           Starbucks PROCUREMENT                 |
+|           Coffee supply PROCUREMENT                 |
 |             MULTI-AGENT SYSTEM               |
 |                                              |
 +----------------------------------------------+
@@ -86,7 +86,7 @@ The system is built on a modular architecture with the following components:
         |             |             |
 +-------v------+ +----v--------+ +-v------------+
 |              | |             | |              |
-|Starbucks Bean| | Contract | | Order     |
+|Coffee supply Bean| | Contract | | Order     |
 |  Sourcing    | | Negotiation | | Management   |
 |  Agent       | | Agent       | | Agent        |
 |              | |             | |              |
@@ -111,9 +111,9 @@ The system is built on a modular architecture with the following components:
 
 ## Agent Roles and Responsibilities
 
-### 1. Starbucks Bean Sourcing Agent
+### 1. Coffee supply Bean Sourcing Agent
 
-**Primary Role**: Identifies and evaluates potential Starbucks bean suppliers worldwide.
+**Primary Role**: Identifies and evaluates potential Coffee supply bean suppliers worldwide.
 
 **Responsibilities**:
 * Analyze supplier quality scores and sustainability practices.
@@ -124,7 +124,7 @@ The system is built on a modular architecture with the following components:
 **Key Tools**:
 * `get_all_suppliers`: Retrieves the complete list of available suppliers.
 * `evaluate_supplier_quality`: Assesses the quality of beans from specific suppliers.
-* `get_market_conditions`: Monitors current Starbucks market conditions to inform sourcing decisions.
+* `get_market_conditions`: Monitors current Coffee supply market conditions to inform sourcing decisions.
 
 ### 2. Contract Negotiation Agent
 
@@ -176,7 +176,7 @@ The multi-agent workflow follows these steps:
    * Agents are initialized with their specific tools and capabilities.
 
 2. **Market Simulation**:
-   * Starbucks market conditions are updated regularly (every 10 seconds).
+   * Coffee supply market conditions are updated regularly (every 10 seconds).
    * Price fluctuations, regional variations, and market factors are simulated.
 
 3. **Agent Workflow Execution**:
@@ -185,7 +185,7 @@ The multi-agent workflow follows these steps:
    * Workflow execution takes approximately 5-10 minutes to complete.
 
 4. **Sourcing Phase**:
-   * Starbucks Bean Sourcing Agent evaluates all available suppliers.
+   * Coffee supply Bean Sourcing Agent evaluates all available suppliers.
    * Analyzes quality scores, sustainability practices, and certifications.
    * Recommends optimal suppliers based on current needs and market conditions.
 
@@ -220,7 +220,7 @@ The multi-agent workflow follows these steps:
 +-------------------+     +-------------------+     +-------------------+
 |                   |     |                   |     |                   |
 | SOURCING PHASE    |---->| NEGOTIATION PHASE |---->| ORDER MANAGEMENT  |
-| Starbucks Bean       |     | Contract          |     | PHASE             |
+| Coffee supply Bean       |     | Contract          |     | PHASE             |
 | Sourcing Agent    |     | Negotiation Agent |     | Order Agent       |
 +-------------------+     +-------------------+     +-------------------+
         |                         |                         |
@@ -258,11 +258,11 @@ The system includes a dedicated visualizations page to provide real-time insight
 ### 1. Market Price (USD/lb)
 
 **Purpose**:
-* Displays the real-time market price of Starbucks beans in USD per pound, updated every 1.5 seconds.
+* Displays the real-time market price of Coffee supply beans in USD per pound, updated every 1.5 seconds.
 * Visualized as a line chart, showing price trends over time.
 
 **Why It’s Used**:
-* **Monitor Price Fluctuations**: Allows the Sourcing Agent to track market price changes and identify optimal times for sourcing Starbucks beans.
+* **Monitor Price Fluctuations**: Allows the Sourcing Agent to track market price changes and identify optimal times for sourcing Coffee supply beans.
 * **Inform Negotiation Strategies**: The Negotiation Agent uses price trends to negotiate better contract terms with suppliers, ensuring cost efficiency.
 * **Decision-Making Support**: Provides stakeholders with a clear view of market volatility, aiding in strategic procurement decisions.
 * **Market Awareness**: Helps all agents adapt to changing market conditions, ensuring procurement decisions align with current economic factors.
@@ -270,7 +270,7 @@ The system includes a dedicated visualizations page to provide real-time insight
 ### 2. Suppliers Map
 
 **Purpose**:
-* Visualizes the geographical distribution of Starbucks bean suppliers on a scatter plot, with longitude (x-axis) and latitude (y-axis).
+* Visualizes the geographical distribution of Coffee supply bean suppliers on a scatter plot, with longitude (x-axis) and latitude (y-axis).
 * Each point represents a supplier, with tooltips showing the supplier’s name and quality score.
 
 **Why It’s Used**:
@@ -282,7 +282,7 @@ The system includes a dedicated visualizations page to provide real-time insight
 ### 3. Demand Forecast (lbs)
 
 **Purpose**:
-* Shows the forecasted demand for Starbucks beans in pounds over the next six months, displayed as a line chart.
+* Shows the forecasted demand for Coffee supply beans in pounds over the next six months, displayed as a line chart.
 * Each data point represents the predicted demand for a specific month (e.g., Apr 2025 to Sep 2025).
 
 **Why It’s Used**:
@@ -309,7 +309,7 @@ The system includes a dedicated visualizations page to provide real-time insight
 ### Key Files and Components
 
 1. **agents/crew_manager.py**:
-   * Manages the Starbucks Procurement Multi-Agent System.
+   * Manages the Coffee supply Procurement Multi-Agent System.
    * Initializes agents and their tools.
    * Processes agent messages and system state.
    * Handles agent collaboration and task execution.
@@ -324,13 +324,13 @@ The system includes a dedicated visualizations page to provide real-time insight
    * Connects agent actions to the market simulator.
 
 4. **simulation/market_simulator.py**:
-   * Simulates the Starbucks market conditions.
+   * Simulates the Coffee supply market conditions.
    * Manages suppliers, contracts, and orders.
    * Provides market data to the agents.
 
 5. **simulation/data_generator.py**:
    * Generates initial market data and supplier information.
-   * Creates realistic Starbucks market conditions.
+   * Creates realistic Coffee supply market conditions.
    * Randomizes supplier attributes and market factors.
 
 6. **agent_api.py**:
@@ -420,5 +420,5 @@ The system is designed for extensibility:
 
 ## Conclusion
 
-The Starbucks Procurement Multi-Agent System demonstrates how autonomous AI agents can collaborate to manage complex business processes. By dividing responsibilities among specialized agents and enabling their collaboration, the system achieves more sophisticated decision-making than would be possible with a single agent approach. This multi-agent architecture provides a scalable foundation for automating procurement decisions while maintaining the flexibility to adapt to changing market conditions and business requirements.
+The Coffee supply Procurement Multi-Agent System demonstrates how autonomous AI agents can collaborate to manage complex business processes. By dividing responsibilities among specialized agents and enabling their collaboration, the system achieves more sophisticated decision-making than would be possible with a single agent approach. This multi-agent architecture provides a scalable foundation for automating procurement decisions while maintaining the flexibility to adapt to changing market conditions and business requirements.
 ```
